@@ -1,0 +1,12 @@
+.idea/
+/$_REQUEST*.*
+/$_SERVER*.*
+/*.txt
+/auth.php
+/event_bind.php
+/config.php
+/popov-php-bitrix24-zg-20220603-a1df757bd724.json
+/settings.php
+/webHookURL.txt
+/~$*.*
+vendor/
