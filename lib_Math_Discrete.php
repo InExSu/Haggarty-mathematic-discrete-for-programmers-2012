@@ -69,3 +69,21 @@ function graph_Edges_Min(array $arr_Edges): array {
     }
     return $arr_Edges[$index_Min] ?? [];
 }
+
+/**
+ * вектор характерический
+ * путем последовательного удаления из основной последовательности элементов,
+ * которые не входят в подпоследовательность
+ */
+function vector_Characteristic(array $arr_Histack, array $arr_Needles): array {
+
+    $arr_Char = [];
+
+    $arr_Histack_Count = count($arr_Histack);
+
+    for ($i = 0; $i < $arr_Histack_Count; $i++) {
+        $arr_Char[$i] = (int)in_array($arr_Histack[$i], $arr_Needles);
+    }
+
+    return $arr_Char;
+}

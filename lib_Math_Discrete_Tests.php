@@ -60,6 +60,16 @@ function graph_Edges_Min_Test() {
     assert($arr[2] == 2);
 }
 
+function vector_Characteristic_Test() {
+    echo 'vector_Characteristic_Test($arr_Histack,$arr_Needle)';
+    $arr_Histack = [1, 2, 3];
+    $arr_Needle  = [1, 3];
+
+    $result = vector_Characteristic($arr_Histack, $arr_Needle);
+    assert($result[1] == 0);
+}
+
+vector_Characteristic_Test();
 // graph_Edges_Min_Test();
 // graph_Vertex_Edges_Test();
-graph_Prim_Test();
+// graph_Prim_Test();

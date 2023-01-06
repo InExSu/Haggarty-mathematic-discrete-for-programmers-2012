@@ -489,3 +489,9 @@ Stack trace:
 #2 C:\_GitHub\PHP_CS_InExSu\Haggarty-mathematic-discrete-for-programmers-2012\lib_Math_Discrete_Tests.php(60): graph_Prim_Test()
 #3 {main}
   thrown in C:\_GitHub\PHP_CS_InExSu\Haggarty-mathematic-discrete-for-programmers-2012\lib_Math_Discrete.php on line 63
+[06-Jan-2023 14:02:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, int given in C:\_GitHub\PHP_CS_InExSu\Haggarty-mathematic-discrete-for-programmers-2012\lib_Math_Discrete.php on line 77
+[06-Jan-2023 14:02:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, int given in C:\_GitHub\PHP_CS_InExSu\Haggarty-mathematic-discrete-for-programmers-2012\lib_Math_Discrete.php on line 77
+[06-Jan-2023 14:02:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, int given in C:\_GitHub\PHP_CS_InExSu\Haggarty-mathematic-discrete-for-programmers-2012\lib_Math_Discrete.php on line 77
+[06-Jan-2023 14:03:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, int given in C:\_GitHub\PHP_CS_InExSu\Haggarty-mathematic-discrete-for-programmers-2012\lib_Math_Discrete.php on line 77
+[06-Jan-2023 14:03:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, int given in C:\_GitHub\PHP_CS_InExSu\Haggarty-mathematic-discrete-for-programmers-2012\lib_Math_Discrete.php on line 77
+[06-Jan-2023 14:03:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, int given in C:\_GitHub\PHP_CS_InExSu\Haggarty-mathematic-discrete-for-programmers-2012\lib_Math_Discrete.php on line 77
